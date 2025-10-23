@@ -1,0 +1,5 @@
+{
+  "name": "Reflect Landing Page Clone",
+  "description": "A recreation of the Reflect app's landing page using React, TypeScript, and Tailwind CSS, featuring a dynamic hero section with a glowing effect.",
+  "requestFramePermissions": []
+}
